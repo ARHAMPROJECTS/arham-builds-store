@@ -12,7 +12,7 @@ export const ALL_PRODUCTS_DATA: Product[] = [
     currentPrice: 281,
     originalPrice: 499,
     thumbnailUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj350gLvLmELw4b3Nh98tiASycfZ9t4RYh7bTosqRZGPZ5iryfF2x6ajiV-QflWvkowcnMO1i65ErhQ-sq4jv3A7t5Y3PLfV25KsfClrS11JDBI3kgczua0E6A3tPLmpzX5zFcgp1qi4ASfg4FNJqaEROQWMlmhzN-f3zJTDcLzc4jVhh253BgY1IAT8A/s1600/happy-birthday-sahiba.png',
-    videoUrl: 'https://youtu.be/G_M9Ond5LFE',
+    videoUrl: 'https://ik.imagekit.io/0uswuasvrq/HAPPY%20BIRTHDAY%20SAHIBA.mp4',
     category: 'Birthday',
     badge: 'Hot Sell',
     checkoutUrl: 'https://superprofile.bio/vp/ENQZ4YqE',
