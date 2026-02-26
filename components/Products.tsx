@@ -35,7 +35,7 @@ export const ALL_PRODUCTS_DATA: Product[] = [
     currentPrice: 28,
     originalPrice: 199,
     thumbnailUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie3W0bhfUZaEb0ycYz4Djdh7oQM5YrKREENBuLGgzHPElVgFvLTSrOln9C1z3qYuVmMePn88y34wWnBHyG0LhtLUTazR2jtfdB0cOcQkmsNdukMB9vDsihKQeIdUS_F_apHrM3V8TOgoLzlXIV9DXJpc7qR61e-buLz_tM25gzJviEynWoAY1vdH1qFg/s1600/BIRTHDAY%20V2.png',
-    videoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-portrait-of-a-woman-in-a-neon-light-41004-large.mp4',
+    videoUrl: 'https://ik.imagekit.io/3kka2lnk8/HAPY%20BIRTHDAY%20V1%20PREVIEW.mp4',
     category: 'Birthday',
     badge: 'Latest',
     checkoutUrl: 'https://superprofile.bio/vp/CMxxVg5o',
