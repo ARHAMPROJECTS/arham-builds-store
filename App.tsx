@@ -29,7 +29,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 // Feature Flags: Easily toggle global UI sections
 const SHOW_OFFER_TIMER = false;
 const SHOW_WELCOME_DISCOUNT = true;
-const SHOW_PROMO_POPUP = true; // Toggle this to show/hide the popup
+const SHOW_PROMO_POPUP = false; // Toggle this to show/hide the popup
 
 export type View = 'home' | 'about' | 'templates' | 'store' | 'faq' | 'contact' | 'contact-page' | 'product-detail' | 'delivery-process' | 'privacy-policy' | 'terms-conditions' | 'verification' | 'pulse' | 'projects' | 'masterclass';
 
