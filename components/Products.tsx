@@ -58,7 +58,7 @@ export const ALL_PRODUCTS_DATA: Product[] = [
     currentPrice: 0,
     originalPrice: 49,
     thumbnailUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9Vm5Ixx4h7d8FF17ZTkBvuDgh9QiD7vFJjBsKVnaT1Kc8aoe04vAK8m5MNF6dcAqyavkKed6kdP4B7SFgodI_cKnIuWjsZhxFKfooi5BPyexjoW1tvzhTtHPci7BfN8r4qkQqVEU7WnFbg2-_xNNv4kwh5f6gQI6QeYOalQjrN2skm7b-TqRhuVbsA/s1600/Kahani-Suno-Lyrics.png',
-    videoUrl: 'videos/KAHANI SUNO VIDEO PREVIEW.mp4',
+    videoUrl: 'https://ik.imagekit.io/3kka2lnk8/KAHANI%20SUNO%20VIDEO%20PREVIEW.mp4',
     category: 'Free',
     badge: 'Trending',
     checkoutUrl: 'mailto:arhamadib31@gmail.com?subject=Free Kahani Suno Lyrical Site Request&body=Hello Arham! I want the Kahani Suno Lyrical site which is free. Please share the next steps.',
