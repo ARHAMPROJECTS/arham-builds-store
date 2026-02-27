@@ -95,6 +95,7 @@ export const ALL_PRODUCTS_DATA: Product[] = [
       { name: 'Fully Deployed Website', description: 'The website will be deployed as per your request within 12-24 hours.' }
     ],
     demoUrl: 'https://happy-new-year-madam-jii.vercel.app/',
+ stockCount: 0,
   }
 ];
 
