@@ -111,7 +111,7 @@ const CheckoutDrawer: React.FC<CheckoutDrawerProps> = ({ product, onClose, onSuc
       currency: "INR",
       name: "Arham Builds",
       description: `${product.title} ${appliedCode ? `(Code: ${appliedCode})` : ''}`,
-      image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGerWLzMB6sist_c1s9aQZ-18JCIOAuOzllZ0-Hx5gdjyJ4xiaoW4ItlvmDYzLmQaich3erS_p2rf3cmQCla-UZw0Gf2DGnzvFPUKVBj0njTizv5I9zqO6UK1db9tEQkx6pKil3umTOwqwZpmPf5R0dFXxqUxtUQ3I_pQ6om9DBuRhfhIKiMmu3aPcDNk/s820/cropped_circle_image%20(3)%20(1)%20(2)%20(1).png",
+      image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy_sPMjp-pzhX61fXy0AcBCnoqIMsHvuVL5nKqbwvHh0GrFZO4pBb7B4RcEcOZXS3goF6UJkAn2hUV4ANR64ZO8FOqEvc0K6azs_qsXWZR2k6SwQ_YVag8uijz3w7SEagKrLZ5pPU-DhMO7HBmQp_ieZGjREYFHsYDWBdpihmXEK0roddowTAgRMUFqUGd/s320/Arham-Builds-Logo.jpeg",
       handler: function (_response: unknown) {
         if (onSuccess) onSuccess();
         handleClose();
