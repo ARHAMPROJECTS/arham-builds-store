@@ -106,7 +106,7 @@ const CheckoutDrawer: React.FC<CheckoutDrawerProps> = ({ product, onClose, onSuc
     }
     
     const options = {
-      key: "rzp_test_SJfQnrdSLLSJ2c",
+      key: "rzp_live_SL7gv4559mguxV",
       amount: finalPrice * 100,
       currency: "INR",
       name: "Arham Builds",
